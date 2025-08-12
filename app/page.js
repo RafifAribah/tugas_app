@@ -69,10 +69,10 @@ export default function SimpleWebsite() {
                 <span className="text-4xl font-bold text-white">JD</span>
               </div>
               <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-4">
-                Rapip
+                John Doe
               </h1>
               <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-                Software developer
+                Full Stack Developer passionate about creating beautiful and functional web applications
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <button 
@@ -100,12 +100,12 @@ export default function SimpleWebsite() {
               <div>
                 <h3 className="text-xl font-semibold text-gray-800 mb-4">Hello There!</h3>
                 <p className="text-gray-600 mb-4">
-                  I'm a passionate full-stack developer with over 3 years of experience 
+                  I&apos;m a passionate full-stack developer with over 3 years of experience 
                   building web applications. I love turning complex problems into simple, 
                   beautiful and intuitive solutions.
                 </p>
                 <p className="text-gray-600 mb-4">
-                  When I'm not coding, you can find me exploring new technologies, 
+                  When I&apos;m not coding, you can find me exploring new technologies, 
                   contributing to open source projects, or enjoying a good cup of coffee.
                 </p>
                 <p className="text-gray-600">
@@ -176,7 +176,7 @@ export default function SimpleWebsite() {
             <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">Get In Touch</h2>
             <div className="max-w-2xl mx-auto">
               <p className="text-gray-600 text-center mb-8">
-                Have a project in mind? Let's work together to bring your ideas to life.
+                Have a project in mind? Let&apos;s work together to bring your ideas to life.
               </p>
               
               <div className="grid md:grid-cols-2 gap-8 mb-8">
@@ -185,14 +185,14 @@ export default function SimpleWebsite() {
                     <span className="text-blue-600 font-bold">@</span>
                   </div>
                   <h3 className="font-semibold text-gray-800 mb-2">Email</h3>
-                  <p className="text-gray-600">rapip@example.com</p>
+                  <p className="text-gray-600">john.doe@example.com</p>
                 </div>
                 <div className="text-center">
                   <div className="bg-blue-100 w-12 h-12 rounded-full flex items-center justify-center mx-auto mb-4">
                     <span className="text-blue-600 font-bold">#</span>
                   </div>
                   <h3 className="font-semibold text-gray-800 mb-2">Social</h3>
-                  <p className="text-gray-600">@rapip</p>
+                  <p className="text-gray-600">@johndoe</p>
                 </div>
               </div>
 
@@ -246,7 +246,7 @@ export default function SimpleWebsite() {
         <div className="max-w-4xl mx-auto px-4 py-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-gray-600 mb-4 md:mb-0">
-              © 2024 rapip. Built with Next.js.
+              © 2024 John Doe. Built with Next.js.
             </div>
             <div className="flex space-x-6">
               <a href="#" className="text-gray-600 hover:text-gray-900">GitHub</a>
